@@ -1,8 +1,6 @@
 # aws-wordpress-backup-restore-project
 AWS EC2 WordPress deployment with MySQL backup and disaster recovery validation.
 
-# AWS WordPress Backup & Recovery Lab
-
 ## Project Overview
 
 Deployed a WordPress application on AWS EC2 running Ubuntu, Apache, PHP, and MySQL.
